@@ -7,6 +7,7 @@
   * Performance Test : I want to know , how many transaction this app can handle transaction per hour and understand the upper limits of capacity within the system , so that we know what we should be improve. in this page i think we dont need performance test because it's not transactional page.
   
 2. Tell us what kind of testcase you want to execute.
+
 Feature: TestCafe Feedback
 As a user,  I want to give feedback to TestCafe, so they will know my feedback 
 
@@ -33,6 +34,7 @@ As a user,  I want to give feedback to TestCafe, so they will know my feedback
 		Then i verify “submit-button” is not clickable 
     
 3. We all know automation can help, show us your test-automation code to test it (Impress us by not using Katalon :)..
+
   i have to create sample AutomationFrameworkWEBUI with BDD concept and customize re-useable method, im using Java,cucumber,junit,maven,and selenium, you can  pull my workspace in this repository, the name is "TestCafe" 
   For running this Framework im using : 
   * macOS Majove version 10.14
