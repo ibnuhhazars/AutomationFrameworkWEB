@@ -8,7 +8,7 @@
   
 2. Tell us what kind of testcase you want to execute.
 
-Feature: TestCafe Feedback
+Feature: TestCafe Feedback.
 As a user,  I want to give feedback to TestCafe, so they will know my feedback 
 
 	Scenario: user input with valid data
@@ -48,6 +48,7 @@ As a user,  I want to give feedback to TestCafe, so they will know my feedback
 | employee_id | employee_name | buddy_id | supervisor_id | team_name |
 your task is to create a query to show:
 | employee_id | employee_name | buddy_name | supervisor_name | team_name |
+
 
 SELECT 
     master_Employee_id,
